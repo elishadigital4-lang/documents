@@ -1,0 +1,10 @@
+Interview questions
+
+What is the overall process you follow for API development, and how do you handle deployment?
+What volume of data have you worked with during API validation and checks?
+Explain the Spring Boot bean lifecycle and structure, and how objects are created and managed in Spring Boot.
+How do you enable and improve backend API performance?
+Explain Dependency Injection in Spring Boot.
+What is idempotency in backend systems?
+Explain constructor injection and field injection in Spring Boot, along with their differences.
+
